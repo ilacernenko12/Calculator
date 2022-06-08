@@ -1,6 +1,7 @@
 The simplest calculator
 =======================
-Performs four arithmetic operations: multiplication, division, addition, subtraction. The "clear field" button (C) works the same way.
+Performs four arithmetic operations: multiplication, division, addition, subtraction. The "clear field" button (C) works the same way. 
+GUI library - Swing
 --------------------------------------------------------------------------------------------------------------------------------------
 Program example:
 

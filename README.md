@@ -4,7 +4,7 @@ Performs four arithmetic operations: multiplication, division, addition, subtrac
 --------------------------------------------------------------------------------------------------------------------------------------
 ### GUI library - Swing.
 
-Program example:
+#### Program example:
 
 
 ![111](https://user-images.githubusercontent.com/93983025/172606808-bfd3a89b-8c7c-45ed-8d44-3a84a5da6abf.jpg)

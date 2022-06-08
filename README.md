@@ -1,7 +1,7 @@
 The simplest calculator
 =======================
 Performs four arithmetic operations: multiplication, division, addition, subtraction. The "clear field" button (C) works the same way.
-
+--------------------------------------------------------------------------------------------------------------------------------------
 Program example:
 
 
